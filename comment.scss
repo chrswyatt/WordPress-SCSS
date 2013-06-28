@@ -1,0 +1,198 @@
+/* == WP CSS - Comment Styles == */
+.commentlist {
+
+  .reply {
+
+		a {
+
+		}
+
+	}
+
+	.alt {
+
+	}
+
+	.odd {
+
+	}
+
+	.even {
+
+	}
+
+	.thread-alt {
+
+	}
+
+	.thread-odd {
+
+	}
+
+	.thread-even {
+
+	}
+
+	li {
+
+		ul{
+
+			&.children {
+
+				.alt {
+
+				}
+
+				.odd {
+					
+				}
+
+				.even {
+					
+				}
+
+			}
+
+		}
+
+		p {
+
+		}
+
+		ul {
+
+		}
+
+		ul {
+
+			&.children{
+
+				li {
+
+					&.alt {
+
+					}
+
+					&.byuser {
+
+					}
+
+					&.comment {
+
+					}
+
+					/*
+					&.depth-{id} {
+
+					}
+					*/
+
+					&.bypostauthor {
+
+					}
+
+					&.comment-author-admin {
+
+					}
+
+				}
+
+			}
+		}
+
+	}
+
+	.vcard {
+
+		cite {
+
+			&.fn {
+
+				a {
+
+					&.url {
+
+					}
+
+				}
+
+			}
+
+		}
+
+		span {
+
+			.says {
+
+			}
+
+		}
+
+		img {
+
+			.photo {
+
+			}
+
+			.avatar {
+
+			}
+
+		}
+
+	}
+
+	.comment-meta {
+
+		a {
+
+		}
+
+	}
+
+	.commentmetadata {
+
+		a {
+
+
+		}
+
+	}
+
+	.parent {
+
+	}
+
+	.comment {
+
+	}
+
+	.children {
+
+	}
+
+	.pingback {
+
+	}
+
+	.bypostauthor {
+
+	}
+
+	.comment-author {
+
+	}
+
+	.comment-author-admin {
+
+	}
+
+}
+
+#cancel-comment-reply {
+
+	a {
+
+	}
+
+}
