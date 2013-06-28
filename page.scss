@@ -1,0 +1,80 @@
+/* == WP CSS - Page Listings == */
+
+/* outermost list item */
+.pagenav {
+
+  ul{
+
+		ul{
+
+		}
+	}
+
+	.current_page_item ul {
+
+		ul{
+
+		}
+	}
+
+	.current_page_ancestor ul {
+
+		ul{
+
+		}
+	}
+
+	.current_page_ancestor .current_page_item ul {
+
+		ul{
+
+		}
+	}
+
+	.current_page_ancestor .current_page_ancestor ul {
+
+		ul{
+
+		}
+
+		.current_page_item ul {
+
+			ul{
+
+			}
+		}
+
+		.current_page_ancestor ul {
+
+			ul{
+
+			}
+		}
+	}
+}
+
+/* any page item */
+.page_item {
+
+}
+
+/* specific page id */
+/*.page-item-{id} {
+	
+}
+*/
+
+/* current page */
+.current_page_item {
+
+}
+
+/* parent of current page */
+.current_page_parent {
+
+}
+
+/* any ancestor of current page */
+.current_page_ancestor {
+
+}
